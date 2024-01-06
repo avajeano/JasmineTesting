@@ -1,1 +1,1 @@
-Testing with Jasmine using a loan calculator.
+Testing with Jasmine.
